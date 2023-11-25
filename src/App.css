@@ -1,0 +1,16 @@
+.control-row{
+  margin-top: 10px;
+}
+.number-input{
+  max-width: 110px;
+  border-radius: 8px;
+}
+.reset-btn{
+  margin-top: 15px;
+  width: 50px;
+  height: 34px;
+  background-color: #ffea1c;
+}
+.h1{
+  color: bisque;
+}
